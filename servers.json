@@ -1,0 +1,7 @@
+{
+  "Servers":
+  [
+       "Name1:host:port",
+       "Name2:host:port"
+  ]
+}
